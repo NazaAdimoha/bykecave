@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Bycking.com | The home of custom bikes and assessories</title>
-        <meta name="description" content="Byke Cave" />
+        <title>Byke_Cave Holdings | The home of custom bikes and assessories</title>
+        <meta name="description" content="Byke_Cave" />
       </Head>
 
       <main>
