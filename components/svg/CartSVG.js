@@ -7,7 +7,7 @@ export default function CartSVG({ fill, stroke, showItems, inHeader }) {
   return (
     <span className="relative flex">
       <svg
-        with={`${inHeader ? '30' : '24' }`}
+        // with={`${inHeader ? '30' : '24' }`}
         height={`${inHeader ? '30' : '24' }`}
         viewBox={`0 0 ${inHeader ? '30 30' : '24 24' }`}
         fill={fill}
