@@ -4,7 +4,7 @@ import ProductCard from "../../components/common/ProductCard";
 
 const HomeScreenStore = () => {
   return (
-    <div className="bg-cyan-500">
+    <div className="bg-black">
       <div className="pt-14">
         <p className="text-center text-white text-2xl uppercase font-bold">
           Popular items
@@ -20,12 +20,12 @@ const HomeScreenStore = () => {
         <div className="sm:w-1/4 w-full mt-4">
           <div className="h-full justify-items-center flex ">
             <div className="self-center mx-3">
-              <p className="text-5xl font-bold">
+              <p className="text-5xl font-bold text-cyan-500">
                 GO YOUR <br />
                 <span className="text-white">OWN</span> WAY
               </p>
               <div className="mr-10">
-                <p className="font-light mr-5 text-sm">
+                <p className="font-light mr-5 text-sm text-gray-700">
                   Ready, set, pedal. With a bike, you can take on the world -
                   whether it&apos;s a commute, a challenging trail, or a great
                   workout.

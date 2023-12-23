@@ -10,7 +10,7 @@ export default function DesktopHeader({ bgColor, textColor }) {
           <div className="flex items-center justify-between">
             <Link href="/">
               <a className="">
-                <img src="/bycking.logo.png" className="w-20 h-10" alt="logo" />
+                <img src="/bykecave.png" className="w-20 h-20 border-none rounded-2xl" alt="logo" />
               </a>
             </Link>
 

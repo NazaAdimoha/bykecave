@@ -17,8 +17,8 @@ export default function BikeDetails() {
   return (
     <>
       <Head>
-        <title>Bycking | { bike_details[0]?.brand } | { bike_details[0]?.name }</title>
-        <meta name="description" content="Bycking | Cart" />
+        <title>Byke_Cave | { bike_details[0]?.brand } | { bike_details[0]?.name }</title>
+        <meta name="description" content="Byke_Cave | Cart" />
       </Head>
       <Details bike={bike_details} />
     </>
