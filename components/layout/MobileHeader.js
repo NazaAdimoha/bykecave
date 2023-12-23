@@ -58,7 +58,7 @@ const MobileHeader = ({ bgColor, color, showHomePageHero }) => {
           >
             <Link href="/">
               <a className="mb-2">
-                <img src="/bykecave.png" className="w-20" alt="logo" />
+                <img src="/bykecave.png" className="w-20 rounded-full p-2 border-none" alt="logo" />
               </a>
             </Link>
             <ul className={click ? "nav-menu active" : "nav-menu"}>
