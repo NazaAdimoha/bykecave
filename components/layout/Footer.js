@@ -93,7 +93,7 @@ const Footer = () => {
         {/*  */}
         <div className="flex py-8 font-thin text-xs">
           <div className="w-full flex flex-col sm:flex-row text-gray-400 justify-between pl-5">
-            <p>&copy; cumba bikes 2022 All rights reserved. </p>
+            <p>&copy; Byke_Cave Holdings 2023 All rights reserved. </p>
             <div className="flex gap-x-2">
               <p>Privacy Policy</p>
               <p>Terms of Use</p>
